@@ -1,3 +1,3 @@
 This holds proofs from Friedberg's text.
 
-![Proofs](chapter1Notes.pdf)
+![Proofs From Text](chapter1Notes.pdf)
